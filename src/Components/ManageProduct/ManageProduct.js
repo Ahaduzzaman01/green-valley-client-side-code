@@ -20,7 +20,7 @@ const ManageProduct = () => {
     }
 
     return (
-        <div className="main-container container">
+        <div className="main-container mb-3 container">
             <div className="left-sidebar mt-3">
                 <h4 className="text-center pt-2">Green Valley</h4>
 
